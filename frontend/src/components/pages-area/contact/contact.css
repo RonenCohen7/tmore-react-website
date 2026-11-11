@@ -1,0 +1,61 @@
+.contact-page {
+    width: min(1100px, calc(100% - 40px));
+    margin: 0 auto 40px;
+}
+
+.contact-page .page-hero {
+    margin: 0 -20px 28px;
+    padding: 72px 20px 48px;
+    background: linear-gradient(190deg, #f40c66, #101218);
+    color: white;
+    text-align: center;
+    border-radius: 0 0 60px 60px;
+}
+
+.contact-facts {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 12px;
+}
+
+.contact-facts article {
+    background: white;
+    border: 1px solid var(--color-line);
+    border-radius: 18px;
+    padding: 18px 12px;
+    text-align: center;
+}
+
+.contact-facts svg {
+    color: var(--color-primary);
+    font-size: 22px;
+}
+
+.contact-facts h2 {
+    font-size: 18px;
+    margin: 8px 0;
+}
+
+.contact-facts p,
+.contact-facts a {
+    color: var(--color-muted);
+    margin: 0;
+}
+
+.contact-form-card {
+    margin-top: 28px;
+    background: var(--color-primary);
+    color: white;
+    border-radius: 28px;
+    padding: 28px;
+}
+
+.contact-form-card h2 {
+    margin-top: 0;
+}
+
+@media (max-width: 900px) {
+    .contact-facts {
+        grid-template-columns: 1fr 1fr;
+    }
+}

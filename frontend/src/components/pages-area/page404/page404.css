@@ -1,0 +1,12 @@
+.page404 {
+    min-height: 46vh;
+    display: grid;
+    place-items: center;
+    text-align: center;
+    padding: 48px 16px;
+}
+
+.page404 a {
+    color: var(--color-primary);
+    font-weight: 700;
+}

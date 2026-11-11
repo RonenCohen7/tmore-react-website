@@ -1,0 +1,40 @@
+.content-page {
+    width: min(980px, calc(100% - 40px));
+    margin: 0 auto 40px;
+}
+
+.page-hero {
+    margin: 0 -20px 28px;
+    padding: 72px 20px 48px;
+    background: linear-gradient(190deg, #f40c66, #101218);
+    color: white;
+    text-align: center;
+    border-radius: 0 0 60px 60px;
+}
+
+.page-hero h1 {
+    margin: 0 auto;
+    max-width: 860px;
+    font-size: clamp(32px, 5vw, 54px);
+}
+
+.page-image {
+    width: 100%;
+    max-height: 420px;
+    object-fit: cover;
+    border-radius: 24px;
+    margin-bottom: 24px;
+}
+
+.page-body p {
+    font-size: 18px;
+    line-height: 1.8;
+    color: #2a2e38;
+}
+
+.page-form {
+    margin-top: 24px;
+    padding: 22px;
+    border-radius: 24px;
+    background: #fff1f6;
+}

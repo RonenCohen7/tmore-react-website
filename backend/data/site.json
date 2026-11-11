@@ -1,0 +1,117 @@
+{
+  "name": "T.MORE",
+  "tagline": "פתרונות למידה מתקדמים",
+  "heroTitle": "Training and more",
+  "heroSubtitle": "ייעוץ ופיתוח פתרונות למידה מתקדמים לארגונים ולמערכות חינוך",
+  "heroImage": "/api/media/2022/07/wepik-photo-mode-2022619-122837.jpg",
+  "logo": "/api/media/2026/02/cropped-T.more-לוגו-.png",
+  "phone": "03-7711388",
+  "phoneHref": "tel:037711388",
+  "fax": "03-7711388",
+  "email": "tikshuv@t-more.co.il",
+  "whatsapp": "054-5489299",
+  "whatsappHref": "https://wa.me/message/W4B4UWK5MGTXB1",
+  "address": "שדרות אריאל שרון 8, אור יהודה",
+  "facebook": "https://www.facebook.com/Tikshuv121/",
+  "linkedin": "https://www.linkedin.com/company/t-more/",
+  "introTitle": "למידה דיגיטלית",
+  "introHeading": "נעים להכיר!",
+  "introText": "T.MORE (תימור) מציעה פתרונות למידה מתקדמים ואת כלל המענים הנדרשים בתחום הלמידה, בהתאמה אישית לצורכי הארגון, כדי להגשים את היעדים האסטרטגיים שלכם.",
+  "domainsText": "אנחנו ב-T.MORE מאמינים מאוד בקשר שבין עולם החינוך לעולם הלמידה בארגונים ודואגים כל הזמן לעשות חיבורים בין העולמות.",
+  "clients": [
+    {
+      "src": "/api/media/2023/09/tmore-microsoft-1-1.png",
+      "alt": "tmore-microsoft-1-1"
+    },
+    {
+      "src": "/api/media/2021/07/אשדוד.png",
+      "alt": "אשדוד"
+    },
+    {
+      "src": "/api/media/2021/07/המשרד-לשיוויון-חברתי.png",
+      "alt": "המשרד-לשיוויון-חברתי"
+    },
+    {
+      "src": "/api/media/2021/07/ויצו.png",
+      "alt": "ויצו"
+    },
+    {
+      "src": "/api/media/2021/07/קרן-ליושלים.png",
+      "alt": "קרן-ליושלים"
+    },
+    {
+      "src": "/api/media/2021/07/קמפוס.png",
+      "alt": "קמפוס"
+    },
+    {
+      "src": "/api/media/2021/07/פרדסיה.jpg",
+      "alt": "פרדסיה"
+    },
+    {
+      "src": "/api/media/2021/07/מרכז-השילטון-המקומי.png",
+      "alt": "מרכז-השילטון-המקומי"
+    },
+    {
+      "src": "/api/media/2021/07/כפר-יונה.jpg",
+      "alt": "כפר-יונה"
+    },
+    {
+      "src": "/api/media/2021/07/טלאול.jpg",
+      "alt": "טלאול"
+    },
+    {
+      "src": "/api/media/2021/07/רשת-מכללות-עתיד.jpg",
+      "alt": "רשת-מכללות-עתיד"
+    },
+    {
+      "src": "/api/media/2021/07/AbbVie_logo_logotype.png",
+      "alt": "AbbVie_logo_logotype"
+    },
+    {
+      "src": "/api/media/2021/07/CBRE-scaled.jpeg",
+      "alt": "CBRE-scaled"
+    },
+    {
+      "src": "/api/media/2022/07/medassis.png",
+      "alt": "medassis"
+    },
+    {
+      "src": "/api/media/2022/07/אוניברסיטת-תל-אביב.png",
+      "alt": "אוניברסיטת-תל-אביב"
+    },
+    {
+      "src": "/api/media/2022/07/הזנק-לעתיד.png",
+      "alt": "הזנק-לעתיד"
+    },
+    {
+      "src": "/api/media/2022/07/כפר-יונה.png",
+      "alt": "כפר-יונה"
+    },
+    {
+      "src": "/api/media/2022/07/לוגו_אלבר.png",
+      "alt": "לוגו_אלבר"
+    },
+    {
+      "src": "/api/media/2022/07/נטפים.png",
+      "alt": "נטפים"
+    }
+  ],
+  "reasons": [
+    {
+      "title": "מחויבות לקוח",
+      "text": "ליווי צמוד לאורך כל הדרך, מהאפיון ועד ההטמעה."
+    },
+    {
+      "title": "מקצועיות",
+      "text": "פיתוח למידה שמחבר בין פדגוגיה, תוכן וטכנולוגיה."
+    },
+    {
+      "title": "יחס אישי",
+      "text": "התאמה לצרכי הארגון, לא פתרון מדף."
+    },
+    {
+      "title": "ניסיון",
+      "text": "חלק מקבוצת Mgroup, פועלים בתחום מאז 2012."
+    }
+  ]
+}
